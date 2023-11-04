@@ -1,4 +1,4 @@
-package model
+package ru.droiderhandbook.data
 
 import kotlinx.serialization.Serializable
 
